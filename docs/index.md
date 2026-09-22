@@ -89,7 +89,7 @@ $$
 Уравнение [\eqref{eq:bilin}](#3) можно затем переписать в виде 
 
 $$
-(\mathcal{A}u, v) = f(v) \forall v \in H,
+(\mathcal{A}u, v) = (f, v)~~ \forall v \in H,
 $$
 
 откуда легко (почему?) вывести 
