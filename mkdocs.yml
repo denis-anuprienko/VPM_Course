@@ -1,0 +1,17 @@
+site_name: Материалы по курсу "Вариационно-проекционные методы"
+
+theme:
+  name: material
+
+plugins:
+  - search
+
+markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - admonition
+
+extra_javascript:
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
