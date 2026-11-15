@@ -73,7 +73,7 @@ $$
 + билинейная форма $a(\cdot,\cdot)$ непрерывна, т.е.
 
 $$
-\exists M = const > 0: ~~~|a(u,v)| \le ||u||\cdot||v|| ~~~\forall u, v \in H;
+\exists M = const > 0: ~~~|a(u,v)| \le M\cdot ||u||\cdot||v|| ~~~\forall u, v \in H;
 $$ 
 
 + билинейная форма $a(\cdot,\cdot)$ *коэрцитивна*, т.е.
