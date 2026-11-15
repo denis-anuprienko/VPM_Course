@@ -218,7 +218,10 @@ $$
 
 + С другой стороны, 
 $$
-a(u-u_N, u-u_N) = a(u-u_N, u-v_N) + a(u-u_N, u_N-v_N) = a(u-u_N, u_N-v_N) \le M ||u-u_N||\cdot ||u-v_N|| 
+a(u-u_N, u-u_N) = a(u-u_N, u-v_N) + a(u-u_N, u_N-v_N)=
+$$
+$$
+= a(u-u_N, u_N-v_N) \le M ||u-u_N||\cdot ||u-v_N|| 
 $$
 
 Комбинируя два пункта, получаем утверждение теоремы. $\square$
