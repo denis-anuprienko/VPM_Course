@@ -241,7 +241,7 @@ $$
 Используя линейнойсть скалярного произведения, элементы $\xi$ можно внести под скобки скалярного произведения:
 
 $$
-\sum_{i=1}^N\sum_{j=1}^N \xi_i \left(\mathcal{A}\phi_i, \phi_j\right) \xi_j = \sum_{i=1}^N\sum_{j=1}^N \left(\mathcal{A}\xi_i\phi_i, \xi_j\phi_j\right) \xi_j = \left(\mathcal{A}\sum_{i=1}^N\xi_i\phi_i, \sum_{j=1}^N\xi_j\phi_j \right) > 0
+\sum_{i=1}^N\sum_{j=1}^N \xi_i \left(\mathcal{A}\phi_i, \phi_j\right) \xi_j = \sum_{i=1}^N\sum_{j=1}^N \left(\mathcal{A}\xi_i\phi_i, \xi_j\phi_j\right) = \left(\mathcal{A}\sum_{i=1}^N\xi_i\phi_i, \sum_{j=1}^N\xi_j\phi_j \right) > 0
 $$
 
 из свойства коэрцитивности, так как записанное выражение в итоге равно $(\mathcal{A}v_N, v_N)$ для некоторой $v_N$, определяемой коэффициентами $\{\xi_i\}$. $\square$
